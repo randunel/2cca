@@ -1,6 +1,6 @@
 {
     "name": "2cca",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "2-cent Certification Authority",
     "main": "2cca",
     "scripts": {
